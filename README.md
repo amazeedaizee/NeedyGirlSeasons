@@ -7,6 +7,8 @@ Summer uses the default background.
 
 Milestone streams, special streams like in Welcome To My Religion, and the pen-ultimate stream in the Internet Overdose ending are not affected.
 
+### Note: You must have BepInEx pre-configured and enabled with the game to use this mod.
+
 -----
 The code in this repository is licensed with the MIT License. [You can find it here.](https://github.com/amazeedaizee/NeedyGirlSeasons/blob/main/LICENSE.md)
 
