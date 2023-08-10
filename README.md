@@ -8,7 +8,7 @@ Summer uses the default background.
 Milestone streams, special streams like in Welcome To My Religion, and the pen-ultimate stream in the Internet Overdose ending are not affected.
 
 -----
-The code in this repository is licensed with the MIT License. You can find it here.
+The code in this repository is licensed with the MIT License. [You can find it here.](https://github.com/amazeedaizee/NeedyGirlSeasons/blob/main/LICENSE.md)
 
 This mod is fan-made and is not associatied with xemono and WSS Playground. All properties belong to their respective owners.
 
