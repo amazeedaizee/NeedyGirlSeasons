@@ -12,6 +12,8 @@ Milestone streams, special streams like in Welcome To My Religion, and the pen-u
 -----
 The code in this repository is licensed with the MIT License. [You can find it here.](https://github.com/amazeedaizee/NeedyGirlSeasons/blob/main/LICENSE.md)
 
+Customs backgrounds made by me! Edited from the default background of the Webcam.
+
 This mod is fan-made and is not associatied with xemono and WSS Playground. All properties belong to their respective owners.
 
 Haven't downloaded Needy Streamer Overload yet? Get it here: https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
