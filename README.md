@@ -1,5 +1,6 @@
 # Seasons Mod For Needy Streamer Overload
-![2023-09-10](https://github.com/amazeedaizee/NeedyGirlSeasons/assets/131136866/c248cf10-fd85-4e36-a4f1-0efbb373536e)
+![2023-09-10](https://github.com/amazeedaizee/NeedyGirlSeasons/assets/131136866/8e03be2c-a5f9-4696-b61b-381c505ea07c)
+
 
 A mod that changes the background of the Webcam depending on the season.
 
