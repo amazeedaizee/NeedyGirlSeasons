@@ -1,3 +1,4 @@
+### [A small update on my mods](https://gist.github.com/amazeedaizee/b065103e312e6339ddce15854445dc27)
 # Seasons Mod For Needy Streamer Overload
 ![2023-09-10](https://github.com/amazeedaizee/NeedyGirlSeasons/assets/131136866/8e03be2c-a5f9-4696-b61b-381c505ea07c)
 
@@ -12,6 +13,15 @@ Milestone streams, special streams like in Welcome To My Religion, and the pen-u
 [You can read how to configure BepInEx with the game here.](https://gist.github.com/amazeedaizee/ae0dd70cc0d842d6a83cd80451e3752e)
 
 -----
+
+## Disclosure
+
+This mod (code) was unfortunately created using Visual Studio 2022 with Intellicode (Ai-powered autocomplete)
+
+[More info](https://gist.github.com/amazeedaizee/b065103e312e6339ddce15854445dc27)
+
+-----
+
 The code in this repository is licensed with the MIT License. [You can find it here.](https://github.com/amazeedaizee/NeedyGirlSeasons/blob/main/LICENSE.md)
 
 Customs backgrounds made by me! Edited from the default background of the Webcam.
